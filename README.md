@@ -2,6 +2,8 @@
 Geospatial analysis tool for retail site selection in Northwest Arkansas.
 #  NWA Retail Gap Analyzer: A Spatial Intelligence Tool
 
+[![View Interactive Map](https://img.shields.io/badge/View-Interactive%20Map-blue?style=for-the-badge)](https://owenschock.github.io/nwa-retail-gap-analyzer/NWA_Final_Analysis.html)
+
 ### *Optimizing site selection for retail expansion in Northwest Arkansas using Demographic & Network Analysis.*
 
 ![Project Banner](images/final_master_map.png)
